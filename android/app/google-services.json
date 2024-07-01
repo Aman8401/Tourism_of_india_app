@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "962258619810",
+    "project_id": "fir-ac647",
+    "storage_bucket": "fir-ac647.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962258619810:android:85c28882e9e961b4bf36fb",
+        "android_client_info": {
+          "package_name": "com.example.getx_practice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962258619810-d0plvpeok1r0bunsr5eb7t7bgudm1avk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.getx_practice",
+            "certificate_hash": "1129f1e037837c5551a201c6a35eae47d55e580c"
+          }
+        },
+        {
+          "client_id": "962258619810-3rr6km1ruqt1lkodnl5348rcjcegq5cg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe6CYpyDvRLV6XZINQTyIo2NUtcL2ioMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "962258619810-3rr6km1ruqt1lkodnl5348rcjcegq5cg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962258619810:android:35ac20d3eed7cbccbf36fb",
+        "android_client_info": {
+          "package_name": "com.example.tourism_of_india"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962258619810-3rr6km1ruqt1lkodnl5348rcjcegq5cg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe6CYpyDvRLV6XZINQTyIo2NUtcL2ioMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "962258619810-3rr6km1ruqt1lkodnl5348rcjcegq5cg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
